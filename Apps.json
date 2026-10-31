@@ -1,5 +1,139 @@
 {
   "version": "1.0.0",
   "updated": "2026-10-31",
-  "apps": []
+  "author": "galexa233",
+  "apps": [
+    {
+      "id": "calculator",
+      "name": "Калькулятор",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 1,
+      "category": "Инструменты",
+      "age": "0+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/calculator.zip",
+      "description": "Простой калькулятор"
+    },
+    {
+      "id": "gallery",
+      "name": "Галерея",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 5,
+      "category": "Медиа",
+      "age": "0+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/gallery.zip",
+      "description": "Просмотр фото"
+    },
+    {
+      "id": "browser",
+      "name": "Браузер",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 2,
+      "category": "Интернет",
+      "age": "0+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/browser.zip",
+      "description": "Браузер Ant OS"
+    },
+    {
+      "id": "camera",
+      "name": "Камера",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 1,
+      "category": "Медиа",
+      "age": "0+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/camera.zip",
+      "description": "Камера"
+    },
+    {
+      "id": "clock",
+      "name": "Часы",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 1,
+      "category": "Инструменты",
+      "age": "0+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/clock.zip",
+      "description": "Часы и таймер"
+    },
+    {
+      "id": "settings",
+      "name": "Настройки",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 1,
+      "category": "Система",
+      "age": "0+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/settings.zip",
+      "description": "Настройки Ant OS"
+    },
+    {
+      "id": "music",
+      "name": "Музыка",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 3,
+      "category": "Медиа",
+      "age": "0+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/Music.zip",
+      "description": "Музыкальный плеер"
+    },
+    {
+      "id": "sms",
+      "name": "SMS",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 1,
+      "category": "Интернет",
+      "age": "0+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/SMS.zip",
+      "description": "Сообщения"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 1,
+      "category": "Медиа",
+      "age": "12+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/tiktok.zip",
+      "description": "Короткие видео"
+    },
+    {
+      "id": "ant_wars",
+      "name": "Ant Wars",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 15,
+      "category": "Игры",
+      "age": "12+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/Ant_Wars.zip",
+      "description": "Игра про муравьёв"
+    },
+    {
+      "id": "ant_market",
+      "name": "Ant Market",
+      "version": "1.0.0",
+      "author": "AntOS",
+      "icon": "icon.png",
+      "size_mb": 5,
+      "category": "Система",
+      "age": "0+",
+      "url": "https://github.com/galexa233/AntMarket/releases/download/v1.0/AntMarket.zip",
+      "description": "Магазин приложений"
+    }
+  ]
 }
